@@ -1,0 +1,75 @@
+.link,
+.link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+    background-color: darkolivegreen;
+    margin: 0;
+    padding: 10px;
+}
+
+.title {
+    font-size: 30px;
+    position: absolute;
+    top: 5px;
+}
+
+.div {
+    background-color: darkolivegreen;
+}
+
+.div2 {
+    border-bottom: 1px solid darkolivegreen;
+    font-size: 30px;
+}
+
+p,
+.title,
+.div2 {
+    font-family: 'Vesper Libre', serif;
+}
+
+.btn-header {
+    background-color: darkolivegreen;
+    color: white !important;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h4,
+h5 {
+    text-transform: capitalize;
+}
+
+.foot {
+    background-color: darkolivegreen;
+    border-bottom: 10px solid darkolivegreen;
+}
+
+.text-footer {
+    color: white;
+    margin-top: 10px;
+}
+
+.img-footer {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+
+.page-content {
+    min-height: 500px;
+}
+
+.h4 {
+    margin-top: 80px;
+}
+
+a {
+    text-decoration: none;
+    
+}
